@@ -64,6 +64,7 @@ body {
   align-items: center;
   justify-content: center;
   background-color: #fefefe;
+  border-radius: 4px;
 }
 
 .flip-card-back {
